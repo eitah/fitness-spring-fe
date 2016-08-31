@@ -4,7 +4,7 @@ PATH  := $(BIN):$(PATH)
 main:
 	clear
 	@echo [main]
-	@echo Project: Template
+	@echo Project: fitness-spring-fe
 
 compile-front:
 	@echo [compile-front]
